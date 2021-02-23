@@ -57,8 +57,8 @@ Https://BugZone.ir
 📹 YouTube:
 https://www.youtube.com/channel/UCIgk2ldVeelyaHW3s4UkIIg (WitBlack)
 
-🎥 Aparat:
-Https://aparat.com/WitBlack
+📱 Instagram:
+https://instagram.com/WitBlack80
 
 ⌨️ Github:
 Https://github.com/WitBlack
