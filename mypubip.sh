@@ -20,5 +20,7 @@
 #💬 Telegram:
 #Https://t.me/WitBlack_ch
 #
-wget -qO - https://BugZone.ir/myIP.php
+dig +short myip.opendns.com @resolver1.opendns.com
+# OR 
+#wget -qO - https://BugZone.ir/myIP.php
 echo
